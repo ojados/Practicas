@@ -17,7 +17,8 @@ public class TestGithub {
 // esto es un comentario chorra
         System.out.println(" Hola mundo mundial");
         System.out.println(" Segunda línea de código");
-// esto es un comentario chorra que genero desde Github        
+// esto es un comentario chorra que genero desde Github  
+// comentario 2 de github
     }
     
 }
