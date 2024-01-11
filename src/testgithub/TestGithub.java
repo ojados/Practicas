@@ -15,10 +15,8 @@ public class TestGithub {
      */
     public static void main(String[] args) {
 // esto es un comentario chorra
-// nuevo comentario tb
         System.out.println(" Hola mundo mundial");
-//elimino linea de codigo
-// nuevo comentario como tercera modificación        
+        System.out.println(" Segunda línea de código");
     }
     
 }
